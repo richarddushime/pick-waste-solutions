@@ -3,9 +3,9 @@ Empowering Communities for a Cleaner Tomorrow
 
 Pick Waste Solutions is a mobile app that allows users, including households and businesses, to schedule a pickup for their waste. Users can choose to pay online when initiating the pickup or pay cash at the time of collection.
 
-## Below are the sample UI%UX designs for the app 
+## Below are the sample UI/UX designs for the app 
 
-![Alt Login UI](Pick_Waste_Solutions_Repository/pick-waste-solutions/UI/Login.png)
+![Alt Login UI](/UI/Login.png)
 
  ## Problem Addressed:
 Pick Waste Solutions addresses the issue of inefficient waste collection, which leads to pollution, health hazards, and environmental degradation. Many urban areas lack organized systems for timely and effective waste collection, resulting in waste accumulation in public spaces.

@@ -6,6 +6,8 @@ Pick Waste Solutions is a mobile app that allows users, including households and
 ## Below are the sample UI/UX designs for the app 
 
 ![Alt Login UI](/UI/Login.png)
+<img src="/UI/Login.png" alt="Alt Login UI" style="width:500px;"/>
+
 
  ## Problem Addressed:
 Pick Waste Solutions addresses the issue of inefficient waste collection, which leads to pollution, health hazards, and environmental degradation. Many urban areas lack organized systems for timely and effective waste collection, resulting in waste accumulation in public spaces.

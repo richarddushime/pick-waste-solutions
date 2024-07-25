@@ -12,9 +12,8 @@ Pick Waste Solutions is a mobile app that allows users, including households and
 
 <h2>UI Payments</h2>
 <p align="center">
-  <img src="/UI/Splash-Screen.png" alt="Alt Splash_Screen UI" style="width:200px;"/>
-  <img src="/UI/Login.png" alt="Alt Login UI" style="width:200px;"/>
-  <img src="/UI/Dashboard.png" alt="Dashboard UI" style="width:200px;"/>
+  <img src="/UI/Payment-Method.png" alt="Alt Payment-Method UI" style="width:200px;"/>
+  <img src="/UI/Payment-historyI.png" alt="Alt Payment-history UI" style="width:200px;"/>
 </p>
 
 

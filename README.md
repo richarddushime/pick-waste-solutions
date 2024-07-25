@@ -6,6 +6,7 @@ Pick Waste Solutions is a mobile app that allows users, including households and
 ## Below are the sample UI/UX designs for the app 
 <p align="center">
   <img src="/UI/Login.png" alt="Alt Login UI" style="width:200px;"/>
+  <img src="/UI/Splash-Screen.png" alt="Alt Splash_Screen UI" style="width:200px;"/>
   <img src="/UI/Dashboard.png" alt="Dashboard UI" style="width:200px;"/>
 </p>
 
